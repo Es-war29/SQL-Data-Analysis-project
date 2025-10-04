@@ -6,6 +6,7 @@ This project will showcase the Exploratory Data Analysis and Advanced Data Analy
 * This repository contains SQL queries designed to help data analysts and BI professionals quickly explore, segment, and analyze data within a relational database. 
 * Each script focuses on a specific analytical theme and demonstrates best practices for SQL queries.
 * I have used Snowflake to learn SQL during my course of learning, and this project - You can use any of the database systems.
+* Easy to understand this project code in GitHub: [link](https://github1s.com/Es-war29/SQL-Data-Analysis-project)
 
 
 ## About Me
